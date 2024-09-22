@@ -1,0 +1,5 @@
+print("wilkomen!")
+print("")
+euro = input("euro engeben: ")
+doller = 1.07 * float(euro)
+print(f"es sind {doller} doller")
